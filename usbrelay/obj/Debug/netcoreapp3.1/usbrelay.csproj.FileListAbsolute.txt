@@ -1,0 +1,14 @@
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usbrelay.exe
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.csprojAssemblyReference.cache
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.AssemblyInfoInputs.cache
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.AssemblyInfo.cs
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usbrelay.deps.json
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usbrelay.runtimeconfig.json
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usbrelay.runtimeconfig.dev.json
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usbrelay.dll
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usbrelay.pdb
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.dll
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.pdb
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.csproj.CoreCompileInputs.cache
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\obj\Debug\netcoreapp3.1\usbrelay.genruntimeconfig.cache
+C:\Users\dhyun\source\repos\usbrelay\usbrelay\bin\Debug\netcoreapp3.1\usb_relay_device.dll
